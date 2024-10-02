@@ -148,5 +148,5 @@ wordcloud
 yarl==1.9.4
 zipp==3.17.0
 firebase_admin
-stremalit-shadcn-ui
+streamlit-shadcn-ui
 
